@@ -17,7 +17,7 @@ int main()
     if(s!=1)
     {
         printf("False");
-    }
+}
     else
     {
         printf("True");
